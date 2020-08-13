@@ -11,10 +11,6 @@
     color: #ffffff;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -68,6 +64,10 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+body {
+    background-color: #d9dcd6;
 }
 
 .content {
